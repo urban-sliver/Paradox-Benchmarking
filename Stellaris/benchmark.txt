@@ -1,0 +1,4 @@
+goto 1000 1000
+version
+rendertype
+one_year

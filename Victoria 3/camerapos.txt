@@ -1,0 +1,14 @@
+camera={
+	orientation={
+		position={ 871.982300 0.000000 668.371338 }
+		zoom_step=1000.000000
+		pitch=1.396263
+		yaw=0.000000
+	}
+	target={
+		position={ 871.982300 0.000000 668.371338 }
+		zoom_step=1000.000000
+		pitch=1.396263
+		yaw=0.000000
+	}
+}
